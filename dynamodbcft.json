@@ -9,7 +9,7 @@
          "Description": "Provisioned read throughput",
          "Type": "Number",
          "Default": "5",
-         "MinValue": "1",
+         "MinValue": "2",
          "MaxValue": "10000",
          "ConstraintDescription": "must be between 5 and 10000"
       },
@@ -17,7 +17,7 @@
          "Description": "Provisioned write throughput",
          "Type": "Number",
          "Default": "5",
-         "MinValue": "1",
+         "MinValue": "2",
          "MaxValue": "10000",
          "ConstraintDescription": "must be between 5 and 10000"
       }
