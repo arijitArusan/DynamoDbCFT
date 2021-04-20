@@ -10,7 +10,7 @@
          "Type": "Number",
          "Default": "5",
          "MinValue": "1",
-         "MaxValue": "10",
+         "MaxValue": "100",
          "ConstraintDescription": "must be between 5 and 10000"
       },
       "WriteCapacityUnits": {
@@ -18,7 +18,7 @@
          "Type": "Number",
          "Default": "5",
          "MinValue": "1",
-         "MaxValue": "10",
+         "MaxValue": "100",
          "ConstraintDescription": "must be between 5 and 10000"
       }
    },
