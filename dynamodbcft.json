@@ -60,7 +60,7 @@
      "BucketUpdate": {
        "Type": "AWS::S3::Bucket",
        "Properties": {
-         "BucketName": "aviksdynamosamplebucket12345"
+         "BucketName": "aviksdynamosamplebucket123456"
        }
      },
    },
