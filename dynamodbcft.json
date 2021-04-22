@@ -56,7 +56,13 @@
             },
            "TableName": "Transactions"
          }
-      }
+      },
+     "BucketUpdate": {
+       "Type": "AWS::S3::Bucket",
+       "Properties": {
+         "BucketName": "aviksdynamosamplebucket12345"
+       }
+     },
    },
    "Outputs": {
       "TableName": {
